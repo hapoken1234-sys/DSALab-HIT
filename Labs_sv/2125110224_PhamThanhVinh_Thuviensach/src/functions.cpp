@@ -1,5 +1,5 @@
 // functions.cpp
-#include "khoitao.h"
+#include "structures.h"
 
 // ==========================================
 // CÀI ĐẶT CÁC HÀM BST (SÁCH)
