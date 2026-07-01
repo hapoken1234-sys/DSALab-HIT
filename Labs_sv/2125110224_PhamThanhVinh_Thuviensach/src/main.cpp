@@ -20,12 +20,12 @@ int main() {
     int choice;
 
     // Chèn sẵn dữ liệu mẫu (Hardcode test case theo yêu cầu đề bài)
-    bstRoot = insertBook(bstRoot, { "B02", "Nguyen Van Muoi" });
-    bstRoot = insertBook(bstRoot, { "B01", "Ky su rank iron" });
+    bstRoot = insertBook(bstRoot, { "B02", "Cau Truc Du Lieu va Giai Thuat" });
+    bstRoot = insertBook(bstRoot, { "B01", ""Lap Trinh Huong Doi Tuong" });
     bstRoot = insertBook(bstRoot, { "B03", "Co So Du Lieu" });
 
-    insertReader(readerHead, { "R01", "Your Name" });
-    insertReader(readerHead, { "R02", "Lo Vuong" });
+    insertReader(readerHead, { "R01", "Nguyen Van A" });
+    insertReader(readerHead, { "R02", "Tran Thi B" });
 
     do {
         showMenu();
