@@ -1,6 +1,6 @@
 // main.cpp
 #include <iostream>
-#include "khoitao.h"
+#include "structures.h"
 
 void showMenu() {
     std::cout << "\n===== HE THONG QUAN LY THU VIEN =====\n";
