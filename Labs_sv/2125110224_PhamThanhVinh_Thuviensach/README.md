@@ -25,7 +25,7 @@ g++ -std=c++17 src/main.cpp src/functions.cpp -o app
 
 
 
-Labs_sv/21IT001_NguyenVanA_ThuVien/
+Labs_sv/2125110224_PhamThanhVinh_ThuViensach/
 ├── src/
 │   ├── main.cpp          # Quản lý Menu và luồng chạy chính
 │   ├── structures.h      # Khai báo Struct (BST, Queue, Linked List)
